@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 16:23:57 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 16:23:57 +0530</lastBuildDate>
     
 	<atom:link href="https://engbytes.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Building static blog/website using Hugo</title>
       <link>https://engbytes.dev/posts/hugo/</link>
-      <pubDate>Thu, 06 Dec 2018 16:23:57 +0530</pubDate>
+      <pubDate>Sat, 06 Jun 2020 16:23:57 +0530</pubDate>
       
       <guid>https://engbytes.dev/posts/hugo/</guid>
       <description>Recently i have set-up this blog using Hugo. I was able to do it over a weekend. It was a fun &amp;amp; rewarding experience. If you are interested in setting up a static blog/website all you have to do is follow these 6 simple steps
@@ -26,7 +26,7 @@
     <item>
       <title>Docker 101</title>
       <link>https://engbytes.dev/posts/docker/</link>
-      <pubDate>Sun, 28 Jan 2018 12:04:13 +0530</pubDate>
+      <pubDate>Thu, 28 May 2020 12:04:13 +0530</pubDate>
       
       <guid>https://engbytes.dev/posts/docker/</guid>
       <description>WHAT IS DOCKER ? To put it simply, Docker is a way of packing &amp;amp; distributing software.
